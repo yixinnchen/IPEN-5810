@@ -1,7 +1,7 @@
 # AI Narratives - Code and Results Submission
 
 This folder contains only the code and final results for submission.
-本文件夹只保留“代码”和“结果”，用于课程提交。
+本文件夹只保留“代码”和“结果”
 
 ## Folder Structure
 
