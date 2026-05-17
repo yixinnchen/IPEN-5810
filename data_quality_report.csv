@@ -1,0 +1,57 @@
+metric,value,description
+n_firms,11097.0,Unique firms (gvkey)
+n_firm_quarters,74510.0,Firm-quarter observations
+n_transcripts,74510.0,Unique transcripts
+year_min,2020.0,Earliest year
+year_max,2022.0,Latest year
+pct_with_ai_sentences,13.69,% obs with at least 1 AI sentence
+missing_pct_gvkey,0.0,% missing: gvkey
+missing_pct_PERMNO,50.56,% missing: PERMNO
+missing_pct_date,0.0,% missing: date
+missing_pct_year,0.0,% missing: year
+missing_pct_quarter,0.0,% missing: quarter
+missing_pct_companyname,0.0,% missing: companyname
+missing_pct_transcriptid,0.0,% missing: transcriptid
+missing_pct_total_word_count,0.0,% missing: total_word_count
+missing_pct_total_sentence_count,0.0,% missing: total_sentence_count
+missing_pct_clean_word_count,0.0,% missing: clean_word_count
+missing_pct_ai_word_count,0.0,% missing: ai_word_count
+missing_pct_ai_sentence_count,0.0,% missing: ai_sentence_count
+missing_pct_ai_sentence_ratio,0.0,% missing: ai_sentence_ratio
+missing_pct_ai_actionable_share,0.0,% missing: ai_actionable_share
+missing_pct_ai_speculative_share,0.0,% missing: ai_speculative_share
+missing_pct_ai_irrelevant_share,0.0,% missing: ai_irrelevant_share
+missing_pct_ai_semantic_score,0.0,% missing: ai_semantic_score
+missing_pct_ai_adoption_share,0.0,% missing: ai_adoption_share
+missing_pct_ai_innovation_share,0.0,% missing: ai_innovation_share
+missing_pct_bert_adoption_share,0.0,% missing: bert_adoption_share
+missing_pct_bert_innovation_share,0.0,% missing: bert_innovation_share
+missing_pct_bert_risk_share,0.0,% missing: bert_risk_share
+missing_pct_bert_hype_share,0.0,% missing: bert_hype_share
+missing_pct_bert_irrelevant_share,0.0,% missing: bert_irrelevant_share
+missing_pct_lda_topic0_share,0.0,% missing: lda_topic0_share
+missing_pct_lda_topic1_share,0.0,% missing: lda_topic1_share
+missing_pct_lda_topic2_share,0.0,% missing: lda_topic2_share
+missing_pct_lda_topic3_share,0.0,% missing: lda_topic3_share
+missing_pct_lda_topic4_share,0.0,% missing: lda_topic4_share
+missing_pct_lda_topic5_share,0.0,% missing: lda_topic5_share
+missing_pct_lda_topic6_share,0.0,% missing: lda_topic6_share
+missing_pct_lda_topic7_share,0.0,% missing: lda_topic7_share
+missing_pct_lda_topic8_share,0.0,% missing: lda_topic8_share
+missing_pct_lda_topic9_share,0.0,% missing: lda_topic9_share
+missing_pct_size,44.68,% missing: size
+missing_pct_leverage,44.68,% missing: leverage
+missing_pct_bm,46.65,% missing: bm
+missing_pct_profitability,44.68,% missing: profitability
+missing_pct_investment,45.2,% missing: investment
+missing_pct_rd,44.68,% missing: rd
+missing_pct_capex,44.68,% missing: capex
+missing_pct_sich,48.25,% missing: sich
+missing_pct_gsector,44.59,% missing: gsector
+missing_pct_ret,50.87,% missing: ret
+missing_pct_ret_future_1q,51.09,% missing: ret_future_1q
+missing_pct_ret_future_4q,60.87,% missing: ret_future_4q
+missing_pct_momentum,53.44,% missing: momentum
+missing_pct_mktcap_m,50.87,% missing: mktcap_m
+compustat_merge_rate_pct,55.32,% rows matched to Compustat
+crsp_merge_rate_pct,49.13,% rows matched to CRSP returns

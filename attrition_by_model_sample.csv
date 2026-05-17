@@ -1,0 +1,19 @@
+outcome,ai_var,controls,n_obs,n_firms,n_quarters,n_industries
+ret_future_1q,bert_adoption_dummy,"size, bm, momentum",32891,4418,10,12
+ret_future_1q,bert_adoption_dummy,"size, bm, leverage, profitability, investment, momentum",32758,4403,10,12
+ret_future_1q,bert_adoption_dummy,"size, bm, leverage, profitability, investment, momentum, rd, capex",32758,4403,10,12
+ret_future_1q,bert_adoption_log_count,"size, bm, momentum",32891,4418,10,12
+ret_future_1q,bert_adoption_log_count,"size, bm, leverage, profitability, investment, momentum",32758,4403,10,12
+ret_future_1q,bert_adoption_log_count,"size, bm, leverage, profitability, investment, momentum, rd, capex",32758,4403,10,12
+ret_future_1q,bert_adoption_per_1k_words,"size, bm, momentum",32891,4418,10,12
+ret_future_1q,bert_adoption_per_1k_words,"size, bm, leverage, profitability, investment, momentum",32758,4403,10,12
+ret_future_1q,bert_adoption_per_1k_words,"size, bm, leverage, profitability, investment, momentum, rd, capex",32758,4403,10,12
+ret_future_4q,bert_adoption_dummy,"size, bm, momentum",26727,4183,8,12
+ret_future_4q,bert_adoption_dummy,"size, bm, leverage, profitability, investment, momentum",26599,4133,8,12
+ret_future_4q,bert_adoption_dummy,"size, bm, leverage, profitability, investment, momentum, rd, capex",26599,4133,8,12
+ret_future_4q,bert_adoption_log_count,"size, bm, momentum",26727,4183,8,12
+ret_future_4q,bert_adoption_log_count,"size, bm, leverage, profitability, investment, momentum",26599,4133,8,12
+ret_future_4q,bert_adoption_log_count,"size, bm, leverage, profitability, investment, momentum, rd, capex",26599,4133,8,12
+ret_future_4q,bert_adoption_per_1k_words,"size, bm, momentum",26727,4183,8,12
+ret_future_4q,bert_adoption_per_1k_words,"size, bm, leverage, profitability, investment, momentum",26599,4133,8,12
+ret_future_4q,bert_adoption_per_1k_words,"size, bm, leverage, profitability, investment, momentum, rd, capex",26599,4133,8,12

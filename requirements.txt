@@ -1,0 +1,12 @@
+pandas
+numpy
+nltk
+scikit-learn
+sentence-transformers
+gensim
+python-docx
+matplotlib
+scipy
+statsmodels
+openpyxl
+jupyter

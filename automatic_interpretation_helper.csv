@@ -1,0 +1,9 @@
+source,model,estimate,coef,p,status
+panel_1q,1Q | bert_adoption_dummy | baseline_controls | industry_quarter_FE | firm_cluster,"negative, statistically significant at 5%",-0.014938952628172604,0.011998965606988522,ok_clustered
+panel_1q,1Q | bert_adoption_dummy | baseline_controls | firm_quarter_FE | firm_cluster,"negative, marginally significant at 10%",-0.012991611845943435,0.06558680700447692,ok_clustered
+panel_4q,4Q | bert_adoption_dummy | baseline_controls | industry_quarter_FE | firm_cluster,"negative, statistically significant at 5%",-0.05117622578379036,0.02122959586684096,ok_clustered
+panel_4q,4Q | bert_adoption_dummy | baseline_controls | firm_quarter_FE | firm_cluster,"negative, not statistically significant",-0.03865051886102307,0.15735407992683692,ok_clustered
+portfolio,ret_future_1q | ew_high_low,"negative, not statistically significant",-0.017935391071709203,0.16170353682636318,n_quarters=10
+portfolio,ret_future_1q | vw_high_low,"negative, marginally significant at 10%",-0.017215840646901896,0.0781511258705587,n_quarters=10
+portfolio,ret_future_4q | ew_high_low,"negative, statistically significant at 5%",-0.10162950092747353,1.6875025496331086e-33,n_quarters=8
+portfolio,ret_future_4q | vw_high_low,"negative, statistically significant at 5%",-0.049450151949158,0.04966046396543178,n_quarters=8
